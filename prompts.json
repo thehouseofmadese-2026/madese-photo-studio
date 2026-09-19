@@ -1,0 +1,96 @@
+{
+  "Lifestyle Shots": {
+    "instructions": [
+      {
+        "id": "ls0002b2",
+        "title": "Held Outdoors",
+        "text": "Show this product being held in someone's hand outdoors in natural daylight, with a softly blurred park or garden background.",
+        "reference_images": []
+      },
+      {
+        "id": "ls0003c3",
+        "title": "Shelf String Lights",
+        "text": "Set this product on a cozy living room shelf with warm string lights and a small plant nearby, evening ambience.",
+        "reference_images": []
+      },
+      {
+        "id": "e18bddb2",
+        "title": "Conceptual Print Ad",
+        "text": "Create a premium conceptual print advertisement for this 3D-printed  product shown in the uploaded product reference image.Use the uploaded examples of conceptual advertisements as visual references for the advertising style, composition, visual metaphor, simplicity, and art direction. Do not copy any specific advertisement, brand, logo, character, or copyrighted design from the references.The advertisement should feel like a clever professional advertising-agency campaign, rather than a conventional product photoshoot or e-commerce banner.Creative directionBuild the entire advertisement around ONE simple visual idea that communicates the product's purpose, characteristic, or benefit.Think in terms of:visual exaggerationunexpected scaleshape-based metaphorsnegative spacetransformationjuxtapositionimpossible but visually believable situationsturning an everyday object into a clever visual metaphorThe viewer should understand the idea before reading the copy.CompositionUse a clean editorial advertising layout with:one dominant hero compositionthe product clearly recognizablegenerous negative spacestrong visual hierarchysimple geometric compositioncarefully controlled perspectiveminimal supporting elementspremium studio-quality renderingAvoid crowded scenes, generic lifestyle photography, excessive props, floating random objects, or typical Instagram product-ad layouts.Product accuracyThe uploaded product is the hero product.Preserve its:exact geometryproportionsdimensionsrecognizable silhouettesurface patterncolormaterialfunctional componentsDo not redesign the product.Make it look like a real premium 3D-printed object, with subtle PLA layer-line texture and realistic material characteristics.Art directionUse a sophisticated minimalist visual language inspired by high-end conceptual advertising:bold idea + simple composition + unexpected visual metaphor + restrained typography.The background should be a carefully selected solid or softly graduated color that complements the product. Use strong but controlled contrast.Lighting should be intentional and photographic, with soft directional shadows and carefully controlled highlights.TypographyInclude one extremely short headline, ideally between 2–6 words.The headline should be clever and directly connected to the visual metaphor.Examples of the type of copy to aim for:“Mess Made Beautiful.”“Made To Stand Out.”“More Than Meets The Eye.”“Organized. Naturally.”“Function, With Character.”Do not use long marketing copy.Place the headline with generous whitespace using a clean modern sans-serif typeface.Add “HOUSE OF MADESE” very subtly as the brand signature if appropriate.Important creative ruleDo not simply place the product on a nice background.Invent a memorable advertising concept where the shape or function of the product becomes part of the idea itself.The product should be integrated into the visual metaphor rather than merely photographed.The final image should look like a real award-style conceptual print advertisement that could appear in a design magazine or premium advertising campaign.Minimal. Clever. Unexpected. Beautiful. Product-focused.No unnecessary text, no feature lists, no icons, no badges, no discount labels, no pricing, no CTA buttons, no clutter.",
+        "reference_images": [
+          "reference_images/Lifestyle_Shots/e18bddb2/400545ce.png",
+          "reference_images/Lifestyle_Shots/e18bddb2/376b9dca.png",
+          "reference_images/Lifestyle_Shots/e18bddb2/791eac43.png",
+          "reference_images/Lifestyle_Shots/e18bddb2/277fc200.png",
+          "reference_images/Lifestyle_Shots/e18bddb2/f8da6e8f.png"
+        ]
+      },
+      {
+        "id": "508ea37d",
+        "title": "lifestyle natural home decor outdoor",
+        "text": " Create a photorealistic lifestyle product photograph using the uploaded product as the exact reference. Preserve the product’s original design, proportions, dimensions, colors, geometry, surface texture, and functional details without redesigning or embellishing it.  Place the product naturally in a beautiful but believable outdoor environment, as if someone casually discovered the perfect spot for a spontaneous lifestyle photoshoot. Use settings such as a sunny balcony, terrace, garden table, veranda, courtyard, café patio, window ledge, outdoor reading nook, or sunlit porch depending on what suits the product.  Style the scene with warm natural materials — weathered wood, terracotta, stone, linen, ceramic, rattan, concrete and natural greenery. Add only a few complementary lifestyle props that make sense for the product, such as books, coffee cups, plants, sunglasses, notebooks, flowers, keys, candles or small decorative objects.  Use bright natural cinematic sunlight, realistic directional shadows, subtle highlights, soft reflections and beautiful depth of field. Include slight imperfections and natural environmental details so the image feels like a real high-end editorial photograph rather than an AI-generated product render.  Composition should feel spontaneous and slightly candid, with the product clearly visible and dominant in the frame. Use an eye-level or slightly low camera angle, realistic perspective, 35–50mm photography aesthetic, shallow but natural depth of field, subtle background bokeh, realistic material textures and professional editorial color grading.  Overall aesthetic: modern Indian/European outdoor lifestyle, warm minimalism, earthy neutrals, sage, cream, terracotta and natural wood, sophisticated but approachable, premium home-design magazine photography.  Do not alter the product. Do not add logos, text, labels, measurements or unnecessary decorative elements. No people unless specifically requested.  Then add one of these environment variations  1. Sunny balcony  Place the product on a textured stone balcony ledge surrounded by terracotta pots, leafy plants, a wooden chair and soft morning sunlight.  2. Garden table  Place the product on a rustic wooden garden table surrounded by greenery, small wildflowers, a ceramic cup and dappled sunlight filtering through leaves.  3. Outdoor café  Place the product casually on a small wooden café table on a quiet terrace, with a ceramic coffee cup, notebook and softly blurred greenery and architecture in the background.  4. Courtyard  Place the product on a warm sandstone or concrete surface in a minimalist courtyard with terracotta pots, climbing plants and strong late-afternoon sunlight.  5. Outdoor reading nook  Place the product beside a linen-covered lounge chair with a book, ceramic mug, woven basket and plants, creating a relaxed weekend-reading atmosphere.  6. Window/terrace transition  Place the product on a wooden surface beside large open glass doors leading onto a green terrace, with sunlight spilling naturally between the indoor and outdoor spaces.  7. Picnic-style shoot  Place the product on a linen picnic blanket over natural grass with a wooden tray, book, ceramic cup and subtle wild greenery, photographed from a slightly elevated editorial angle.  8. Monsoon-inspired balcony  Place the product on a damp stone or concrete balcony after light rain, surrounded by lush green plants and terracotta pots, with soft overcast daylight and subtle moisture on surfaces.",
+        "reference_images": []
+      }
+    ],
+    "last_used": [
+      "e18bddb2"
+    ]
+  },
+  "Clean Listing Photos": {
+    "instructions": [
+      {
+        "id": "cl0001a1",
+        "title": "Pure White Isolated",
+        "text": "Isolate this product on a pure white seamless background, bright even studio lighting, no visible shadows, straight-on e-commerce catalog style.",
+        "reference_images": []
+      },
+      {
+        "id": "cl0002b2",
+        "title": "usecase ",
+        "text": "Using the uploaded product as the exact reference, create a premium Amazon product infographic photograph that clearly communicates the product's key features and benefits.\n\nKeep the product completely identical to the reference image. Do not alter its shape, proportions, colors, textures, printed details or functional components.\n\nPlace the product prominently in a clean, minimal environment with a warm neutral background. Use a sophisticated commercial-product photography composition with the product occupying the main visual focus.\n\nAround the product, leave intentional negative space for 3–4 short feature callouts. Use clean modern typography and simple thin graphic lines pointing toward the relevant physical features.\n\nSuitable callouts should explain only features that are visibly or factually supported by the reference/product information, such as:\n\n3D PRINTED\nLIGHTWEIGHT\nSTRONG GRIP\nCOMPACT DESIGN\n\nUse a restrained, premium visual design: cream, warm beige, muted sage, terracotta and charcoal tones. Clean editorial Amazon infographic aesthetic, highly readable, uncluttered composition, realistic photography.\n\nDo not invent specifications, certifications, materials or performance claims.\n\nImportant\n\nFor every different product, replace those feature examples with the actual features.",
+        "reference_images": []
+      },
+      {
+        "id": "cl0003c3",
+        "title": "size comparison",
+        "text": "Using the uploaded product as the exact reference, create a photorealistic lifestyle photograph demonstrating the product's real-world scale.\n\nPreserve the product's exact dimensions, proportions, colors, shape and surface details.\n\nPlace the product next to familiar everyday objects appropriate to its purpose, creating a natural visual reference for its size. The comparison objects must have realistic proportions and must not visually overpower the product.\n\nUse a clean, aesthetically pleasing environment with warm natural materials, realistic daylight and subtle depth of field.\n\nThe product must remain clearly visible and sharply focused. The scale relationship between the product and surrounding objects must be physically believable.\n\nPremium editorial product photography, realistic perspective, natural shadows, accurate scale, warm neutral color palette.\n\nNo exaggerated product size, no floating objects, no distorted perspective and no unnecessary decoration.\n\nExamples:\n\n100 mm clock\n\n→ beside a coffee mug + book.\n\nKeychain\n\n→ attached to actual keys.\n\nSmall organizer\n\n→ beside a laptop/pen.\n\nHairpin\n\n→ shown in relation to a person's hand or hair.",
+        "reference_images": []
+      },
+      {
+        "id": "27700bbf",
+        "title": "Color Combo Grid (2x2)",
+        "text": "Your 13 Colors — Reference List (corrected) #\tColor Name\tHex 1\tPitch Black\t #0E0E10 2\tPure White\t #F1ECE1 3\tMidnight Gray\t #383F44 4\tNuclear Red\t #BB1E10 5\tOutrageous Orange\t #E25303 6\tLemon Yellow\t #F9A800 7\tRust Copper\t #8D4931 8\tChocolate Brown\t #4C2B20 9\tIce Blue\t #007CB0 10\tSakura Pink\t #FFB7C5 11\tArctic (Translucent)\t #7CB7A5 12\tOrange (Translucent)\t #FF9D5B 13\tTransparent (High-Speed)\t #F5F5F5  -- this are all the filament colors that i have use this colors and find out what colors would give best color combination for the prodcut and Using the uploaded product photo as the exact reference, generate a product photo grid showing this same 3D printed item in 4 different color combinations , each in its own frame with identical camera angle, lighting, shadows, and background as the original — only the object's color should change between frames.Maintain the same surface texture, proportions, and realistic PLA/PETG material finish across all variants. Output as a clean 2x2 grid, e-commerce ready",
+        "reference_images": []
+      }
+    ],
+    "last_used": [
+      "cl0001a1",
+      "cl0002b2",
+      "cl0003c3",
+      "27700bbf"
+    ]
+  },
+  "Social/Reel Thumbnails": {
+    "instructions": [
+      {
+        "id": "sr0001a1",
+        "title": "Bold Gradient Thumbnail",
+        "text": "Create a bold, high-contrast thumbnail of this product with a vibrant colorful gradient background, eye-catching style for Instagram Reels.",
+        "reference_images": []
+      },
+      {
+        "id": "sr0002b2",
+        "title": "Neon Rim Dark",
+        "text": "Close-up dramatic shot of this product with colorful neon rim lighting against a dark background, cinematic mood.",
+        "reference_images": []
+      },
+      {
+        "id": "sr0003c3",
+        "title": "Colorful Flat-Lay",
+        "text": "Playful flat-lay composition of this product surrounded by matching colorful props on a bright, saturated background.",
+        "reference_images": []
+      }
+    ],
+    "last_used": []
+  }
+}
